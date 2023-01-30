@@ -1,0 +1,15 @@
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\bin\Debug\net7.0\hungryWolves.exe
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\bin\Debug\net7.0\hungryWolves.deps.json
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\bin\Debug\net7.0\hungryWolves.runtimeconfig.json
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\bin\Debug\net7.0\hungryWolves.dll
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\bin\Debug\net7.0\hungryWolves.pdb
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\obj\Debug\net7.0\hungryWolves.csproj.AssemblyReference.cache
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\obj\Debug\net7.0\hungryWolves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\obj\Debug\net7.0\hungryWolves.AssemblyInfoInputs.cache
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\obj\Debug\net7.0\hungryWolves.AssemblyInfo.cs
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\obj\Debug\net7.0\hungryWolves.csproj.CoreCompileInputs.cache
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\obj\Debug\net7.0\hungryWolves.dll
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\obj\Debug\net7.0\refint\hungryWolves.dll
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\obj\Debug\net7.0\hungryWolves.pdb
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\obj\Debug\net7.0\hungryWolves.genruntimeconfig.cache
+C:\Users\migon\OneDrive\Documents\Hungry Wolves\Source Code\hungryWolves\obj\Debug\net7.0\ref\hungryWolves.dll
